@@ -1,4 +1,4 @@
-# pizza-hunt
+# Pizza-Hunt
 
 ## Description 
 This app uses NoSQL databases, building a social media style recipe application for creating and sharing custom pizzas. User can create pizza recipe with existing toppings or add additional toppings of their choice 
